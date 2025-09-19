@@ -1,0 +1,6 @@
+101,Simple,100,true
+102,Doble,200,true
+201,Suite,350,true
+202,Presidencial,500,true
+301,VIP,450,true
+302,Simple,100,true
